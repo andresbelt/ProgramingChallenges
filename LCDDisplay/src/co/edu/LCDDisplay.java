@@ -301,6 +301,8 @@ public class LCDDisplay {
 			System.out.println(str);					//O(1)
 			str = "";									//O(1)
 			}
+			
+			JOptionPane.showMessageDialog(null, "Complejidad: O(n^3) ");
 		}else{
 			
 			JOptionPane.showMessageDialog(null, "Ingrese un tamaño superior a 0");
