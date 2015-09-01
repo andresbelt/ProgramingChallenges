@@ -1,5 +1,5 @@
 # ProgramingChallenges
-Solucion problema LCDdisplay, libro Skiena, Revilla    
+Solucion problemas de programacion, libro Skiena, Revilla    
 
 
 
